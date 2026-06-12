@@ -83,6 +83,13 @@ All fields except `symbol` are optional for each entry. Preserve user-provided m
 - Distinguish upcoming dated events from newly disclosed historical events.
 - Keep low-risk and informational findings in the file report, but push or highlight only high and medium alerts unless the user asks otherwise.
 
+## Maintenance And Limitations
+
+- Maintainer: QuantSkills community, published under the `quantskills/skill-event-risk-alert` repository.
+- Upstream dependency: use the sibling `pandadata-api` skill for Pandadata runtime setup and exact API contracts.
+- This skill does not certify data completeness, production readiness, alert delivery, or trading outcomes.
+- Event-risk output is only as current as the available disclosure data and API refresh cycle; always report missing, stale, or lagging data.
+
 ## Cross-Agent Use
 
 - Codex and Claude Code can load this folder directly as a skill named `$event-risk-alert`.
