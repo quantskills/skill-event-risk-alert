@@ -2,6 +2,8 @@
 
 [简体中文](README.md) | **English**
 
+**Creator / Maintainer**: [abgyjaguo](https://github.com/abgyjaguo)
+
 > Turn an A-share watchlist or portfolio into a traceable event-risk scan: restricted-share unlocks, equity pledges, shareholder increase/decrease plans, ST status changes, earnings forecasts, audit opinions, and holder-count shifts — 7 risk areas, graded alerts, scheduled monitoring.
 
 <p align="center">

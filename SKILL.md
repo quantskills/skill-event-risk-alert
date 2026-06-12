@@ -9,6 +9,10 @@ metadata:
   repository_url: https://github.com/quantskills/skill-event-risk-alert
   project_type: skill
   collection: event-risk-alert
+  creator: abgyjaguo
+  creator_url: https://github.com/abgyjaguo
+  maintainer: abgyjaguo
+  maintainer_url: https://github.com/abgyjaguo
 ---
 
 # Event Risk Alert
@@ -85,7 +89,7 @@ All fields except `symbol` are optional for each entry. Preserve user-provided m
 
 ## Maintenance And Limitations
 
-- Maintainer: QuantSkills community, published under the `quantskills/skill-event-risk-alert` repository.
+- Creator and maintainer: `abgyjaguo` (`https://github.com/abgyjaguo`), published under the `quantskills/skill-event-risk-alert` repository.
 - Upstream dependency: use the sibling `pandadata-api` skill for Pandadata runtime setup and exact API contracts.
 - This skill does not certify data completeness, production readiness, alert delivery, or trading outcomes.
 - Event-risk output is only as current as the available disclosure data and API refresh cycle; always report missing, stale, or lagging data.

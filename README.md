@@ -2,6 +2,8 @@
 
 **简体中文** | [English](README.en.md)
 
+**创建者 / 维护者**：[abgyjaguo](https://github.com/abgyjaguo)
+
 > 把一份 A 股自选/持仓清单，变成可追溯的事件风险扫描：解禁、质押、增减持、ST 变更、业绩预告、审计意见、股东户数 —— 7 大风险面一次排查，分级预警，定时监控。
 
 <p align="center">
