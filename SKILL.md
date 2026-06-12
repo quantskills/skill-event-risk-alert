@@ -13,6 +13,27 @@ metadata:
   creator_url: https://github.com/abgyjaguo
   maintainer: abgyjaguo
   maintainer_url: https://github.com/abgyjaguo
+quantSkills:
+  project_type: skill
+  category: monitor
+  tags:
+    - a-share
+    - event-risk
+    - alerts
+    - monitoring
+    - pandadata
+  platforms:
+    - claude-code
+    - codex
+    - openclaw
+    - cursor
+  status: stable
+  requires:
+    - skill-pandadata-api
+  validation_level: runnable
+  maintainer_type: community
+  summary_zh: "A 股持仓和自选股事件风险预警：解禁、质押、减持、ST、业绩预告、审计意见等事件扫描与可追溯告警报告。"
+  summary_en: "A-share event-risk alert skill for watchlists, holdings, unlocks, pledges, reductions, ST changes, forecasts, audit opinions, and traceable reports."
 ---
 
 # Event Risk Alert
