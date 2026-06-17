@@ -202,3 +202,11 @@ event-risk-alert/
 ## ⚠️ 免责声明
 
 本技能输出为基于数据监测规则的研究支持信息，不构成任何投资建议。
+
+## 🐼 PandaAI / QUANTSKILLS 社群
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quantskills/.github/main/profile/assets/pandaai-community-qr.jpg" alt="PandaAI 社群二维码" width="220">
+  <br>
+  <sub>扫码加入 PandaAI 社群，交流 QUANTSKILLS 技能、Agent 工作流与量化研究实践。</sub>
+</div>
